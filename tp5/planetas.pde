@@ -5,14 +5,16 @@
 
 
 //Planetas(){}
-
+//
 
 
 
 // MÉTODOS
 void.crear(){}
+//imagenes, pocisiones
 void.moverconstante(){}
-
+// los objetos se moveran de frente a la nave , de derecha a izquierda
+//if el objeto se choca con la nave pantalla perder
 //}
 
 */
