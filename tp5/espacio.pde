@@ -13,10 +13,11 @@ escenario=load Image...
 
 MÉTODOS
 void.dibujar(){} dibujará el escenario
-
+//colocamos todos los void dibujar de las demas clas
 }
 
 void.jugar(){}
-
+void.mover.nave
 
 void reiniciar(){}
+todos los valores a 0
